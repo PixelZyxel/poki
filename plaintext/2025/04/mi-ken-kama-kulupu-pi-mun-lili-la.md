@@ -15,6 +15,7 @@ original:
 tags:
   - music
   - translation
+  - Bocchi the Rock!
 license: CC BY-SA-NC 4.0
 sources:
   - https://youtu.be/iriSjpeLmV4?si=3umc5z9-p__k5kAm
@@ -120,6 +121,7 @@ sina kama lon poka mi tan ma pi weka mute
 tan ijo kama pi pali mi la nasin pi mi tu li wan anu seme?
 
 lon lupa pi kon walo
+
 
 [toki sike]
 
